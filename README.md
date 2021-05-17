@@ -1,4 +1,4 @@
-Interface do usuário com cartas no estilo Neumorphismo com efeitos de foco e relevo tipo botões. 
+Interface do usuário com cartas no estilo Neumorfismo com efeitos de foco e relevo tipo botões. 
 
 HTML5 & CSS3 - Design Responsivo.
 
